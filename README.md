@@ -15,4 +15,5 @@ Two models were created:
 ![](CustomModel.png)
 
 ## Results
+![](Comparison.png)
 
