@@ -17,3 +17,26 @@ Two models were created:
 ## Results
 ![](Comparison.png)
 
+## Working
+![](sample1.png)
+
+Actual Age: 18
+
+![](sample2.png)
+
+Actual Age: 45-50
+
+![](sample3.png)
+
+Actual Age: 28
+
+![](sample4.png)
+
+Actual Age: 8
+
+![](sample5.png)
+
+Actual Age: 70
+
+
+
